@@ -1,4 +1,4 @@
-# UNIVERSAL PSU - ESP32 Live Power Monitor ⚡️
+# UNIVERSAL PSU - Live Power Monitor ⚡️
 
 ## Overview
 This open-source project allows repair technicians to monitor real-time voltage and current consumption directly on a PC screen. It is designed to help diagnose short circuits and power rail issues on logic boards without taking up valuable workspace.
